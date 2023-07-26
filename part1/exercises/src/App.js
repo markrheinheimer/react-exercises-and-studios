@@ -14,6 +14,7 @@ function App() {
         <BookList />
         <HobbyLinks />
       </div>
+      <img class="App-logo" src={logo} alt="Logo" />
     </div>
   );
 }
